@@ -4,7 +4,8 @@
 - **LinkedIn:** [linkedin.com/shourov-dip](https://linkedin.com/shourov-dip)
 - **GitHub:** [github.com/GitDip008](https://github.com/GitDip008)
 - **Email:** shourovdip147@gmail.com
-- **Phone:** +8801673374746
+- **Facebook:** [facebook.com/myself.dip](https://www.facebook.com/myself.dip)
+- **WhatsApp:** +8801673374746
 
 ---
 
@@ -100,4 +101,4 @@ S. S. Dip, S. R. Bangshi, and S. Waheed, "Real-Time and Accurate Monitoring of S
 ![BearByebearGIF](https://github.com/user-attachments/assets/12d3d928-d1c3-419d-bef6-a9288236d0e1)
 
 
-Thank you for taking the time to explore my profile! I'm passionate about leveraging technology to create innovative solutions, and I'm always eager to learn and collaborate on exciting projects. If you have any questions or would like to connect, feel free to reach out via email or connect with me on LinkedIn.
+Thank you for taking the time to explore my profile! I'm passionate about leveraging technology to create innovative solutions, and I'm always eager to learn and collaborate on exciting projects. If you have any questions or would like to connect, feel free to reach out via email/facebook or connect with me on LinkedIn.
