@@ -4,7 +4,7 @@
 - **LinkedIn:** [linkedin.com/shourov-dip](https://linkedin.com/shourov-dip)
 - **GitHub:** [github.com/GitDip008](https://github.com/GitDip008)
 - **Email:** shourovdip147@gmail.com
-- **Phone:** +358417413188
+- **Phone:** +8801673374746
 
 ---
 
