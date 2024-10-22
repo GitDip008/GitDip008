@@ -20,8 +20,7 @@ A dedicated ML/AI engineer with strong expertise in computer vision, specializin
 Mawlana Bhashani Science and Technology University, Tangail, Bangladesh  
 *2022*  
 CGPA: 3.60/4.00  
-**Thesis:**  
-S. S. Dip, S. R. Bangshi, and S. Waheed, "Real-Time and Accurate Monitoring of Social Distance and Contact Tracing during COVID-19 Situation," 2022 4th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE), Rajshahi, Bangladesh, pp. 1-4, doi: [10.1109/ICECTE57896.2022.10114539](https://doi.org/10.1109/ICECTE57896.2022.10114539).
+**Thesis:** S. S. Dip, S. R. Bangshi, and S. Waheed, "Real-Time and Accurate Monitoring of Social Distance and Contact Tracing during COVID-19 Situation," 2022 4th International Conference on Electrical, Computer & Telecommunication Engineering (ICECTE), Rajshahi, Bangladesh, pp. 1-4, doi: [10.1109/ICECTE57896.2022.10114539](https://doi.org/10.1109/ICECTE57896.2022.10114539).
 
 ---
 
