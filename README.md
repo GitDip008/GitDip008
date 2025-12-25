@@ -4,8 +4,7 @@
 - **LinkedIn:** [linkedin.com/shourov-dip](https://www.linkedin.com/in/shourov-dip/)
 - **GitHub:** [github.com/GitDip008](https://github.com/GitDip008)
 - **Email:** shourovdip147@gmail.com
-- **Facebook:** [facebook.com/myself.dip](https://www.facebook.com/myself.dip)
-- **WhatsApp:** +8801673374746
+- **WhatsApp:** +358417413188
 
 ---
 
